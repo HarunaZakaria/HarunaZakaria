@@ -2,7 +2,8 @@
 
 <div align="center">
   <img  width= '350px'  src= 'https://github-readme-stats.vercel.app/api?username=HarunaZakaria&show_icons=true'/> 
-  <img src="https://streak-stats.demolab.com?user=HarunaZakaria&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HarunaZakaria" alt="GitHub Streak" /></a>
+  <!-- <img src="https://streak-stats.demolab.com?user=HarunaZakaria&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
 <!--   <img src="https://github-profile-trophy.vercel.app?username=HarunaZakaria&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
