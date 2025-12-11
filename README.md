@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="graphql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="graphql logo"  />
+  <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=solidity" height="60" alt="go logo"  />
   <img width="12" /> -->
   <!-- <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
