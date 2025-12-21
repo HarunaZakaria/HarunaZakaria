@@ -37,6 +37,8 @@
   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ejs" height="60" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="python logo"  />
