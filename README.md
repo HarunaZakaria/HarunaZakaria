@@ -47,7 +47,9 @@
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=ipfs" height="60" alt="python logo"  />
   <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="python logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="python logo"  />
+  <img width="12" /> -->
+   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="python logo"  />
   <img width="12" />
