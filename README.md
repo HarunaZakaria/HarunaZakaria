@@ -35,6 +35,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="github logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=express" height="60" alt="github logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="github logo"  />
+  <img width="12" />
 </div>
 
 ###
